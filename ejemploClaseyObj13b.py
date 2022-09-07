@@ -10,3 +10,8 @@
 #*Metodos Instancia
 
 #*Metodo Estatico
+#*@staticmethod
+#*Pueden ser llamados sin tener una instancia
+#*de la clase, ademas este tipo de metodos
+#*no tienen acceso al exterior
+
